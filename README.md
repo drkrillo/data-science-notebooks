@@ -1,3 +1,3 @@
-# DATASCIENCE
+# Data Science Notebooks
 
-The projects present in this repo are from Acámica Data Science course and personal projects. 
+This repo contains notebooks that I have developed over the yeras touching different topics
