@@ -1,0 +1,7 @@
+transformers[sentencepiece] 
+sentence-transformers 
+accelerate
+pandas
+numpy
+matplotlib
+seaborn
